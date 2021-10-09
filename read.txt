@@ -1,3 +1,4 @@
 Git is a version control system.
 git is so diffgit 
 git has a complex
+Git tracks changes of files.
